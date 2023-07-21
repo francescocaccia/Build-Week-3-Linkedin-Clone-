@@ -32,7 +32,7 @@ Registrati e accedi all'app tramite un token generato per  accedere a tutte ques
 
 Il nostro clone di LinkedIn è un progetto open source che accoglie con entusiasmo contributi dalla community. Se sei interessato a partecipare allo sviluppo, puoi dare un'occhiata anche al nostro codice sorgente su GitHub:
 
-👉 [LinkedIn Clone GitHub](https://github.com/tuoaccount/LinkedIn-Clone) 👈
+👉 [LinkedIn Clone GitHub]((https://github.com/francescocaccia)) 👈
 
 Siamo sempre alla ricerca di nuove funzionalità, miglioramenti dell'interfaccia utente e correzioni di bug. Unisciti a noi e rendi il nostro clone di LinkedIn ancora migliore!
 
