@@ -3,8 +3,8 @@
 
 # Clone di LinkedIn
 
-Questo progetto è un clone di LinkedIn, creato dal nostro team 
-durante la settimana di costruzione presso Epicode. È stato costruito utilizzando React, Redux e Routes.
+Questo progetto è un clone di LinkedIn, creato in team
+durante la buil week nel percorso fullstack di Epicode. È stato costruito utilizzando React, Redux e Routes.
 
 ## Descrizione del progetto
 
@@ -26,7 +26,7 @@ Non solo puoi visualizzare i post degli altri, ma puoi anche commentarli per con
 
 ### 📌 Account personalizzato
 
-Registrati e accedi all'app tramite una semplice procedura di login per accedere a tutte queste incredibili funzionalità. Con il tuo account, potrai salvare i tuoi post preferiti, cercare lavoro e commentare ogni singolo post.
+Registrati e accedi all'app tramite un token generato per  accedere a tutte queste incredibili funzionalità. Con il tuo account, potrai salvare i tuoi post preferiti, cercare lavoro e commentare ogni singolo post.
 
 ## Contributi al progetto
 
