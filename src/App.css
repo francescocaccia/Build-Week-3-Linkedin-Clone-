@@ -1,0 +1,300 @@
+.profile_img {
+    height: 170px;
+    width: 170px;
+    border-radius: 100px;
+    border: 6px solid white;
+    position: absolute;
+    top: 90px;
+    left: 3%;
+    background-size: cover;
+}
+
+.my-sticky {
+    position: sticky;
+    top: 100px;
+
+}
+
+.my_card_body {
+    height: fit-content;
+}
+
+.vh-25 {
+    height: 25vh;
+}
+
+body {
+    background-color: rgba(243, 242, 239, 1)
+}
+
+.my_progress {
+    height: 8px;
+    width: 90%;
+}
+
+
+.profileImg {
+    height: 28px;
+    width: 28px;
+    border-radius: 100px;
+    position: absolute;
+    background-size: cover;
+}
+
+.dropdown {
+    margin-top: 1.5rem;
+}
+
+.dropdownMenu {
+    position: relative;
+    right: 800px;
+}
+
+
+.profileImgDropDown {
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    background-size: cover;
+}
+
+.profile-img {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    border: 2px solid white;
+    position: absolute;
+    top: 20px;
+    left: 120px;
+    background-size: cover;
+}
+
+.numbers {
+    font-size: 0.8rem;
+}
+
+.discover {
+    text-align: center;
+}
+
+.buttonCollapse {
+    background-color: transparent;
+    border: none;
+    text-align: start;
+}
+
+.buttonCollapse:hover {
+    background-color: none;
+    border: none;
+}
+
+.profile-pic {
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    border: 1px solid rgb(255, 254, 254);
+
+    background-size: cover;
+
+}
+
+.input {
+    border: solid 1px grey;
+    padding-block: 0.5rem;
+    border-radius: 40px;
+}
+
+.dropdown {
+    background-color: transparent;
+    border: none;
+    color: black;
+}
+
+.footer {
+    width: 300px;
+}
+
+.sentence,
+.asideText {
+    clear: both;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.asideText {
+    width: 55px;
+}
+
+.sidebarBody {
+    margin-left: -2rem;
+    margin-bottom: -2rem;
+}
+
+.footerText {
+    text-align: center;
+}
+
+.gratis {
+    text-decoration: solid black;
+}
+
+.btnProfile {
+    font-size: 0.9rem;
+    width: 200px;
+
+}
+
+/* ++++++++++++++++++++++++++++   aziende side bar   +++++++++++ */
+
+.side-bar {
+    background-color: #fefefe;
+    backdrop-filter: blur(15px);
+    width: 400px;
+    height: 650px;
+    position: fixed;
+    top: 85px;
+    right: 0;
+    overflow-y: scroll;
+    transition: 0.6s ease;
+    transition-property: left;
+    z-index: 999;
+    border-radius: 10px;
+}
+
+.side-bar::-webkit-scrollbar {
+    width: 0px;
+}
+
+
+.side-bar.active {
+    left: 0;
+}
+
+
+.list {
+    list-style: none;
+}
+
+
+#dropDownHome {
+    border: none;
+    background-color: rgba(243, 242, 239, 1);
+    color: black;
+}
+
+#iconCentralCardHome {
+    background-color: #fefefe;
+    border: none;
+}
+
+#iconCentralCardHome :hover {
+    background-color: rgba(243, 242, 239, 1);
+    border: none;
+}
+
+#buttonJobs {
+    background-color: #fefefe;
+    border: none;
+}
+
+#buttonJobs :hover {
+    background-color: rgba(243, 242, 239, 1);
+    border: none;
+}
+
+
+
+#BadgeJobs {
+    background-color: #fefefe;
+    color: #0a66c2;
+    border: none;
+}
+
+#ButtonPubblicaJobs {
+    background-color: rgba(243, 242, 239, 1);
+    color: #0a66c2;
+    border: 1px solid #0a66c2;
+    border-radius: 1.5rem;
+    width: 300px;
+    transition: background-color 0.2s ease, border 0.2s ease-in-out;
+}
+
+#ButtonPubblicaJobs:hover {
+    background-color: #4482c05a;
+    border: 2px solid #0a66c2;
+}
+
+.spinnerBackground {
+    background-color: rgba(0, 0, 0, 0.534);
+    z-index: 2000;
+}
+
+.small {
+    width: 150px;
+    font-size: 1rem;
+}
+
+.dropdown-width {
+    width: 400px;
+}
+
+.fake-input {
+    min-width: 200px;
+}
+
+.dropdown-custom::after {
+    display: none !important;
+}
+
+.dropdown-custom {
+    background-color: transparent !important;
+}
+
+.threeDots {
+    background-color: white;
+}
+
+.jobOffer:hover {
+    background-color: rgba(243, 242, 239, 1);
+}
+
+.chat {
+    position: fixed;
+    bottom: 0;
+    right: 5px;
+}
+
+.btnChat {
+    width: 300px;
+    height: 50px;
+    border: 1px solid grey;
+    text-align: start;
+}
+
+.profileChat {
+    height: 35px;
+    width: 35px;
+    border-radius: 20px;
+    background-size: cover;
+}
+
+.inputBar {
+    width: 310px;
+}
+
+.btn {
+    border-radius: 20px;
+}
+
+.thumb {
+    background-color: #0a66c2;
+    color: white;
+    border-radius: 100%;
+    padding: 0.1rem;
+}
+
+.comments {
+    border: none;
+    background-color: rgba(128, 128, 128, 0.113);
+}
