@@ -40,9 +40,9 @@ Siamo sempre alla ricerca di nuove funzionalità, miglioramenti dell'interfaccia
 
 Siamo felici di ricevere feedback, suggerimenti e domande sul nostro clone di LinkedIn. Non esitare a contattarci se hai bisogno di assistenza o se desideri condividere le tue idee!
 
-- 📧 Email: [cacciapuotifrancesco£@gmail.com]
-- 👥 LinkedIn: [Tuo Nome](https://www.linkedin.com/in/francesco-cacciapuoti-45019718a/)
-- 🐙 GitHub: [tuoaccount](https://github.com/francescocaccia)
+- 📧 Email: cacciapuotifrancesco£@gmail.com
+- 👥 LinkedIn: https://www.linkedin.com/in/francesco-cacciapuoti-45019718a/
+- 🐙 GitHub: https://github.com/francescocaccia
 - 📒 Portfolio: [Portfolio]()
 
 Unisciti a noi in questa avventura professionale e scopri il mondo del lavoro con il nostro clone di LinkedIn! 🌟👔✨ 😊
