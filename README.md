@@ -1,9 +1,10 @@
 
-![Immagine del progetto](file:///C:/Users/Cabro/OneDrive/Desktop/elementi%20per%20portfolio/Linkedin%20project.png)
+![Linkedin project](https://github.com/francescocaccia/Build-Week-3-Linkedin-Clone-/assets/123968277/bd337bff-acd9-46a8-9791-3f0262cea4ed)
 
 # Clone di LinkedIn
 
-Questo progetto è un clone di LinkedIn, creato dal nostro team durante la settimana di costruzione presso Epicode. È stato costruito utilizzando React, Redux e Routes.
+Questo progetto è un clone di LinkedIn, creato dal nostro team 
+durante la settimana di costruzione presso Epicode. È stato costruito utilizzando React, Redux e Routes.
 
 ## Descrizione del progetto
 
